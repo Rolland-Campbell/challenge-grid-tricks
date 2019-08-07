@@ -1,7 +1,11 @@
+*{
+  outline: red;
+}
+
 .white-bg{
   background-color: white;
 }
 
 .h75{
-  height: 100px;
+  height: 75px;
 }
